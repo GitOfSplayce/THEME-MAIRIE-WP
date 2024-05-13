@@ -1,0 +1,1660 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: redux-framework/redux-themnific.php:130
+#: redux-framework/redux-themnific.php:246
+#: redux-framework/redux-themnific.php:379
+#: redux-framework/redux-themnific.php:637
+#: redux-framework/redux-themnific.php:778
+#: redux-framework/redux-themnific.php:1011
+#: redux-framework/redux-themnific.php:1157
+#: redux-framework/redux-themnific.php:1167
+#: redux-framework/redux-themnific.php:1176
+#: redux-framework/redux-themnific.php:1185
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-19 11:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:16
+msgid "404 • Page not found "
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"Oops! The page you are looking for does not exist. It might have been moved "
+"or deleted. "
+msgstr ""
+
+#: 404.php:22
+msgid "Try a search below..."
+msgstr ""
+
+#: archive.php:21 archive.php:26 archive.php:31
+msgid "Archive"
+msgstr ""
+
+#: archive.php:41
+msgid "Tag Archive"
+msgstr ""
+
+#: archive.php:80 index.php:55
+msgid "Nothing found here"
+msgstr ""
+
+#: archive.php:82 index.php:57
+msgid "Perhaps You will find something interesting from these lists..."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:98 functions.php:218
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:99 functions.php:219
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:101 functions.php:220
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:103
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:104 functions.php:221
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:107 functions.php:222
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:112 functions.php:223
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:117 functions.php:228
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:122
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:127 functions.php:225
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:132 functions.php:226
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:136 functions.php:230
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:140
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:144 functions.php:231
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:147 functions.php:232
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:148 class-tgm-plugin-activation.php:484
+#: class-tgm-plugin-activation.php:1583 class-tgm-plugin-activation.php:2251
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:149 class-tgm-plugin-activation.php:2025
+#: functions.php:233
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:150 class-tgm-plugin-activation.php:1921
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:152
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:154
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:156
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:157
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:158
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:159
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:275
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:276
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:566
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:566 class-tgm-plugin-activation.php:569
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:569
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:725 class-tgm-plugin-activation.php:1917
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1221
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1408
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1411
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1418
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1421
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1424
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1432
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1436
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1438
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1444
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1447
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1450
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1459
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1488
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:1492
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:1496
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:1500
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:1542
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1550
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1558
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1570
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1583
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1589
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1590
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1591
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1595
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1596
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1618
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1623
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1629
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1678
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1695
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1701
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1704
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1726
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1728
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1769
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1771
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1877
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1903
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2024
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2194
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2197
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2199
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2203
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2205
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2205 class-tgm-plugin-activation.php:2213
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2205 class-tgm-plugin-activation.php:2213
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2206
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2208
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2211
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2213
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2214
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2216
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:19
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:23
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:59
+msgctxt "label"
+msgid "Close Search Window"
+msgstr ""
+
+#: footer.php:65
+msgid "Scroll to top"
+msgstr ""
+
+#: functions.php:37 header.php:60
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Additional Menu"
+msgstr ""
+
+#: functions.php:39
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:52
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:52
+msgid "Sidebar widget section"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:56
+msgid "Widget section in footer - left"
+msgstr ""
+
+#: functions.php:57
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:57
+msgid "Widget section in footer - center/left"
+msgstr ""
+
+#: functions.php:58
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:58
+msgid "Widget section in footer - center/right"
+msgstr ""
+
+#: functions.php:59
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:59
+msgid "Widget section in footer - right"
+msgstr ""
+
+#: functions.php:63
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:63
+msgid "Sidebar widget section (displayed on shop pages)"
+msgstr ""
+
+#: functions.php:67
+msgid "Free 1"
+msgstr ""
+
+#: functions.php:67 functions.php:69 functions.php:71 functions.php:73
+msgid "Free widget section"
+msgstr ""
+
+#: functions.php:69
+msgid "Free 2"
+msgstr ""
+
+#: functions.php:71
+msgid "Free 3"
+msgstr ""
+
+#: functions.php:73
+msgid "Free 4"
+msgstr ""
+
+#: functions.php:177
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:183
+msgid "Elementor"
+msgstr ""
+
+#: functions.php:189
+msgid "Eleslider"
+msgstr ""
+
+#: functions.php:196
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:202
+msgid "Events Manager"
+msgstr ""
+
+#: functions.php:224
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:227
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:229
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:234
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:251
+msgid "Audio"
+msgstr ""
+
+#: functions.php:252
+msgid "Gallery"
+msgstr ""
+
+#: functions.php:253
+msgid "Image"
+msgstr ""
+
+#: functions.php:254
+msgid "Link"
+msgstr ""
+
+#: functions.php:255
+msgid "Quote"
+msgstr ""
+
+#: functions.php:256
+msgid "Video"
+msgstr ""
+
+#: functions.php:326
+msgid "Read More"
+msgstr ""
+
+#: functions.php:347
+msgid "Home"
+msgstr ""
+
+#: functions.php:353 functions.php:355
+msgid "Projects"
+msgstr ""
+
+#: functions.php:363 functions.php:365
+msgid "Events"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:57
+msgid "Open Menu"
+msgstr ""
+
+#: header.php:58
+msgid "Menu"
+msgstr ""
+
+#: header.php:70
+msgid "Quick Links"
+msgstr ""
+
+#: index.php:15 redux-framework/redux-themnific.php:182
+msgid "City News"
+msgstr ""
+
+#: page.php:79 single-content.php:30 template-fullwidth.php:78
+#: template-left-sidebar.php:79 includes/mag-nextprev.php:35
+msgid "Next"
+msgstr ""
+
+#: page.php:80 single-content.php:31 template-fullwidth.php:79
+#: template-left-sidebar.php:80 includes/mag-nextprev.php:15
+msgid "Previous"
+msgstr ""
+
+#: page.php:97 single.php:123 template-left-sidebar.php:97
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: search.php:15
+msgid "Search Results"
+msgstr ""
+
+#: search.php:51
+msgid "Oops! Nothing found here"
+msgstr ""
+
+#: search.php:53
+msgid "Take a moment and do a search below"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:6
+msgid "I am looking for..."
+msgstr ""
+
+#: searchform.php:7
+msgid "Search"
+msgstr ""
+
+#: single-info.php:12
+msgid "Last modified"
+msgstr ""
+
+#: taxonomy-give_forms_category.php:42 template-donation.php:54
+msgid "Donate Now"
+msgstr ""
+
+#: taxonomy-give_forms_category.php:52 template-donation.php:64
+msgid "Sorry, no donation forms found."
+msgstr ""
+
+#: woocommerce.php:14
+msgid "Shop"
+msgstr ""
+
+#: functions/admin-functions.php:27
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:12
+#: functions/widgets/widget-blog-list.php:12
+msgid "!!Posts block for Elementor only!!"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:13
+msgid "Themnific: Blog Grid"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:93
+#: functions/widgets/widget-blog-list.php:91
+#: functions/widgets/widget-featured.php:86
+msgid "Title (optional)"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:98
+#: functions/widgets/widget-blog-list.php:96
+#: functions/widgets/widget-featured.php:91
+msgid "Filter by Category"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:109
+msgid "Layout"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:113
+msgid "4 Columns"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:114
+msgid "3 Columns"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:115
+msgid "2 Columns"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:116
+msgid "1 Columns"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:128
+#: functions/widgets/widget-blog-list.php:107
+#: functions/widgets/widget-featured.php:102
+msgid "Number of posts"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:133
+#: functions/widgets/widget-blog-list.php:112
+#: functions/widgets/widget-featured.php:107
+msgid "Offset posts"
+msgstr ""
+
+#: functions/widgets/widget-blog-grid.php:138
+#: functions/widgets/widget-blog-list.php:117
+msgid "Filter by a tag (write tags separated by commas)"
+msgstr ""
+
+#: functions/widgets/widget-blog-list.php:13
+msgid "Themnific: Blog List"
+msgstr ""
+
+#: functions/widgets/widget-featured.php:12
+msgid "Featured posts widget."
+msgstr ""
+
+#: functions/widgets/widget-featured.php:13
+msgid "Themnific: Featured"
+msgstr ""
+
+#: functions/widgets/widget-social.php:8
+msgid "This is Social Networks widget."
+msgstr ""
+
+#: functions/widgets/widget-social.php:9
+msgid "Themnific: Social Networks"
+msgstr ""
+
+#: functions/widgets/widget-social.php:36
+msgid "Title:"
+msgstr ""
+
+#: includes/uni-404-content.php:3
+msgid "All Blog Posts"
+msgstr ""
+
+#: includes/uni-social.php:5 redux-framework/redux-themnific.php:1210
+msgid "Rss Feed"
+msgstr ""
+
+#: includes/uni-social.php:8 redux-framework/redux-themnific.php:1218
+msgid "Facebook"
+msgstr ""
+
+#: includes/uni-social.php:11 redux-framework/redux-themnific.php:1227
+msgid "Twitter"
+msgstr ""
+
+#: includes/uni-social.php:14 redux-framework/redux-themnific.php:1254
+msgid "Threads"
+msgstr ""
+
+#: includes/uni-social.php:17 redux-framework/redux-themnific.php:1299
+msgid "Flickr"
+msgstr ""
+
+#: includes/uni-social.php:20 redux-framework/redux-themnific.php:1290
+msgid "500px"
+msgstr ""
+
+#: includes/uni-social.php:23 redux-framework/redux-themnific.php:1245
+msgid "Instagram"
+msgstr ""
+
+#: includes/uni-social.php:26 redux-framework/redux-themnific.php:1236
+msgid "Pinterest"
+msgstr ""
+
+#: includes/uni-social.php:29 redux-framework/redux-themnific.php:1263
+msgid "YouTube"
+msgstr ""
+
+#: includes/uni-social.php:32 redux-framework/redux-themnific.php:1272
+msgid "Vimeo"
+msgstr ""
+
+#: includes/uni-social.php:35
+msgid "GitHub"
+msgstr ""
+
+#: includes/uni-social.php:38 redux-framework/redux-themnific.php:1308
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/uni-social.php:41 redux-framework/redux-themnific.php:1344
+msgid "Skype"
+msgstr ""
+
+#: includes/uni-social.php:44 redux-framework/redux-themnific.php:1281
+msgid "Tumblr"
+msgstr ""
+
+#: includes/uni-social.php:47 redux-framework/redux-themnific.php:1326
+msgid "Foursquare"
+msgstr ""
+
+#: includes/uni-social.php:50 redux-framework/redux-themnific.php:1335
+msgid "Dribbble"
+msgstr ""
+
+#: includes/uni-social.php:53
+msgid "StumbleUpon"
+msgstr ""
+
+#: includes/uni-social.php:56 redux-framework/redux-themnific.php:1369
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/uni-social.php:59 redux-framework/redux-themnific.php:1377
+msgid "Spotify"
+msgstr ""
+
+#: includes/uni-social.php:62 redux-framework/redux-themnific.php:1386
+msgid "Xing"
+msgstr ""
+
+#: includes/uni-social.php:65 redux-framework/redux-themnific.php:1395
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/uni-social.php:68
+msgid "VKontakte"
+msgstr ""
+
+#: includes/uni-social.php:71 redux-framework/redux-themnific.php:1413
+msgid "Snapchat"
+msgstr ""
+
+#: includes/uni-social.php:74 redux-framework/redux-themnific.php:1422
+msgid "Telegram"
+msgstr ""
+
+#: includes/uni-social.php:77 redux-framework/redux-themnific.php:1431
+msgid "TikTok"
+msgstr ""
+
+#: includes/uni-social.php:81
+msgid "Open Search Window"
+msgstr ""
+
+#: includes/uni-social.php:81
+msgctxt "label"
+msgid "Open Search Window"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:36
+msgid "The compiler hook has run!"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:44
+msgid "Section via hook"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:45
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:87
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:96
+#: redux-framework/redux-themnific.php:100
+msgid "Current theme preview"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:107
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:108
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:109
+msgid "Tags"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:113
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:113
+msgid "https://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:129
+msgid "General Settings"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:142
+msgid "Main Logo"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:143
+msgid "Upload a logo for your theme"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:149
+msgid "Container Width Limitation"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:152
+msgid "Normal (1180px)"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:153
+msgid "Wide (1440px)"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:165
+msgid "Header image"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:166
+msgid ""
+"Upload a \"header\" image for blog and archives. Recommended size 1500x650px"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:172
+msgid "Menu Label "
+msgstr ""
+
+#: redux-framework/redux-themnific.php:173
+msgid "Write menu label below logo/site title."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:180
+msgid "News / Blog Title"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:181
+msgid "Write any label for blog/news page title."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:188
+msgid "Enable Uppercase Fonts"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:195
+msgid "Rounded Buttons"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:202
+msgid "Site Frame: Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:217
+msgid "Site Frame: Spacing"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:218
+msgid "Site Frame is applied only on large desktop screens"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:245
+msgid "Primary Styling"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:255
+#: redux-framework/redux-themnific.php:777
+msgid "Typography"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:262
+msgid "Select the typography used as general text."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:275
+msgid "Main Body Background"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:276
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:286
+msgid "Ghost Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:287
+msgid "Pick a alternative background color (similar to Main Body Background)"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:297
+msgid "Links Color Option"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:298
+msgid "Pick a link color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:312
+msgid "Entry Links (in post texts)"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:313
+#: redux-framework/redux-themnific.php:327
+msgid "Pick a custom color for post links."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:326
+msgid "Entry Links (in post texts): Hover Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:337
+msgid "Borders Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:338
+msgid "Pick a color for primary borders"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:348
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:349
+msgid "Pick a color for sidebar text."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:359
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:360
+msgid "Pick a color for sidebar links."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:378
+msgid "Header Styling"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:386
+msgid "Header Layout"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:387
+msgid "Select layout for your header"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:390
+msgid "Default Header"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:391
+msgid "Full Width Header"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:392
+msgid "Full Width Header 2"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:393
+msgid "Full Width Header (Special)"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:394
+msgid "Transparent Header"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:402
+msgid "Header Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:403
+#: redux-framework/redux-themnific.php:414
+msgid ""
+"Pick a bg color for header. On mobile devices is transparent header disabled."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:413
+msgid "Title Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:424
+msgid "Title Link Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:425
+msgid "Pick a color for header links."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:435
+msgid "Navigation Typography"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:441
+#: redux-framework/redux-themnific.php:496
+msgid "Select the typography used as navigation text."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:454
+msgid "Navigation Links: Hover Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:455
+msgid "Pick a hover color for header links."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:467
+msgid "Sub-menu + Special menu button"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:476
+msgid "Sub-menu Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:477
+#: redux-framework/redux-themnific.php:513
+#: redux-framework/redux-themnific.php:525
+msgid "Pick a color for header text."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:490
+msgid "Sub-menu Typography"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:512
+msgid "Menu Button: Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:524
+msgid "Menu Button: Text Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:535
+msgid "Bottombar"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:543
+msgid "Disable Bottombar"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:550
+msgid "Bottombar Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:560
+msgid "Bottombar Links/Text Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:571
+msgid "Spacing of the Header"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:582
+msgid "Header Title/Logo Width Option"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:583
+msgid "Choose the width limitation for header logo."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:598
+msgid "Header Title/Logo Spacing"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:599
+msgid "Choose the margin for header logo."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:616
+msgid "Header Navigation Spacing"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:617
+msgid "Choose the margin for header navigation."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:636
+msgid "Footer Styling"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:649
+msgid "Footer Logo"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:650
+msgid "Upload a footer logo for your theme."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:656
+msgid "Footer Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:657
+msgid "Pick a background color for footer."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:668
+msgid "Footer Text - Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:669
+#: redux-framework/redux-themnific.php:680
+msgid "Pick a color for footer links."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:679
+msgid "Footer Links - Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:690
+msgid "Footer Links - Hover Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:691
+msgid "Pick a hover color for footer links."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:702
+msgid "Footer Borders"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:703
+msgid "Pick a color for footer borders."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:713
+msgid "Special Footer Section (above the footer)"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:721
+msgid "Special Footer Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:722
+msgid "Pick a background color for Special Footer."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:733
+msgid "Special Footer Text / links Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:734
+msgid "Pick a text color for Special Footer."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:746
+msgid "Footer Text"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:747
+#: redux-framework/redux-themnific.php:757
+msgid "Just like a text box widget."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:748
+#: redux-framework/redux-themnific.php:758
+msgid "This field is HTML validated!"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:756
+msgid "Footer Credits Text"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:786
+msgid "Titles"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:795
+msgid "Post Titles"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:801
+#: redux-framework/redux-themnific.php:820
+#: redux-framework/redux-themnific.php:907
+msgid "Select the typography for heading H2."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:814
+msgid "Lists: Post Titles"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:833
+msgid "Small Titles"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:839
+#: redux-framework/redux-themnific.php:945
+msgid "Select the typography for heading H4."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:855
+msgid "Buttons"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:861
+#: redux-framework/redux-themnific.php:964
+msgid "Select the typography for heading H5."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:874
+msgid "Basic (in a post) Headings"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:882
+msgid "H1 Font Style"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:888
+msgid "Select the typography for heading H1."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:901
+msgid "H2 Font Style"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:920
+msgid "H3 Font Style"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:926
+msgid "Select the typography for heading H3."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:939
+msgid "H4 Font Style"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:958
+msgid "H5 Font Style"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:977
+msgid "H6 Font Style"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:983
+msgid "Select the typography for heading H6."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1010
+msgid "Other Styling"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1020
+msgid "Meta Sections - Font Style"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1026
+msgid "Select the typography for meta sections."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1039
+msgid "Dividers + Special Sections: Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1040
+#: redux-framework/redux-themnific.php:1063
+#: redux-framework/redux-themnific.php:1088
+msgid "Pick a custom background color for main buttons, special sections etc."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1051
+msgid "Dividers + Special Sections: Links/Texts - Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1052
+#: redux-framework/redux-themnific.php:1077
+#: redux-framework/redux-themnific.php:1100
+msgid "Pick a custom text color for main buttons, special sections etc."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1062
+msgid "Elements Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1076
+msgid "Elements Links/Texts - Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1087
+msgid "Elements Background Hover Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1099
+msgid "Elements Links/Texts - Hover Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1111
+msgid "Images Background Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1112
+msgid "Pick a custom background color for theme images."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1124
+msgid "Images Text/Link Color"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1125
+msgid "Pick a custom text color for image texts (overlay)"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1156
+msgid "Post Settings"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1165
+msgid "Disable \"Meta\" sections"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1166
+msgid ""
+"Tick to disable post \"inforamtions\" - date, category etc. below post titles"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1174
+msgid "Enable Tags Section"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1175
+msgid "Tick to disable likes/tags section in single post page."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1183
+msgid "Enable Next/Previous Post Section"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1184
+msgid "Tick to disable Next/Previous section in single post page."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1202
+msgid "Social Networks"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1211
+#: redux-framework/redux-themnific.php:1219
+#: redux-framework/redux-themnific.php:1228
+#: redux-framework/redux-themnific.php:1237
+#: redux-framework/redux-themnific.php:1246
+#: redux-framework/redux-themnific.php:1255
+#: redux-framework/redux-themnific.php:1264
+#: redux-framework/redux-themnific.php:1273
+#: redux-framework/redux-themnific.php:1282
+#: redux-framework/redux-themnific.php:1291
+#: redux-framework/redux-themnific.php:1300
+#: redux-framework/redux-themnific.php:1309
+#: redux-framework/redux-themnific.php:1318
+#: redux-framework/redux-themnific.php:1327
+#: redux-framework/redux-themnific.php:1336
+#: redux-framework/redux-themnific.php:1353
+#: redux-framework/redux-themnific.php:1362
+#: redux-framework/redux-themnific.php:1370
+#: redux-framework/redux-themnific.php:1378
+#: redux-framework/redux-themnific.php:1387
+#: redux-framework/redux-themnific.php:1396
+#: redux-framework/redux-themnific.php:1405
+#: redux-framework/redux-themnific.php:1414
+#: redux-framework/redux-themnific.php:1423
+#: redux-framework/redux-themnific.php:1432
+msgid "Enter full URL"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1317
+msgid "TripAdvisor"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1345
+msgid "Enter skype URL"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1352
+msgid "Stumbleupon"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1361
+msgid "Github"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1404
+msgid "VK"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1451
+msgid "Import / Export"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1452
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1475
+msgid "Theme Information 1"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1476
+#: redux-framework/redux-themnific.php:1482
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1481
+msgid "Theme Information 2"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1486
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1500
+msgid "CityGov - admin panel"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1501
+msgid "CityGov admin panel"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1582
+#: redux-framework/redux-themnific.php:1589
+msgid "Documentation"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1604
+msgid "Hello in theme admin panel"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1606
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: redux-framework/redux-themnific.php:1610
+msgid "Redux & Vergo & Themnific"
+msgstr ""
